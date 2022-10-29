@@ -5,7 +5,7 @@
     public static void main(String[] args)
     {
         
-        int num =0;
+        int num =10;
         for(int i=num;i<=300;i++)
  {
        
