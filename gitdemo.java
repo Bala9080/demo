@@ -6,7 +6,7 @@
     {
         
         int num =0;
-        for(int i=num;i<=300;i++)
+        for(int i=num;i<=100;i++)
  {
        
         if (i % 2 == 0) {
