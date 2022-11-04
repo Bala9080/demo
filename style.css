@@ -3,6 +3,9 @@ body{
     padding:0px;
 
     height: 500px;
-    display: flex;
+    display: flex;}
+    head{
+        margin:0px;
+    }
     
    
