@@ -6,7 +6,7 @@
     {
         
         int num =10;
-        String name ="Bala";
+        String name ="Distill";
         for(int i=num;i<=300;i++)
  {
        
