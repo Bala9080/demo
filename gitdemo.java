@@ -5,8 +5,9 @@
     public static void main(String[] args)
     {
         
-        int num =0;
-        for(int i=num;i<=100;i++)
+        int num =10;
+        String name ="Bala";
+        for(int i=num;i<=300;i++)
  {
        
         if (i % 2 == 0) {
@@ -21,6 +22,8 @@
             System.out.println("Odd :"+ i);
         }
     }
+
+    System.out.println(name);
 }
 }
  
