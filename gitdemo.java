@@ -6,6 +6,7 @@
     {
         
         int num =10;
+        String name ="Bala";
         for(int i=num;i<=300;i++)
  {
        
@@ -21,6 +22,8 @@
             System.out.println("Odd :"+ i);
         }
     }
+
+    System.out.println(name);
 }
 }
  
